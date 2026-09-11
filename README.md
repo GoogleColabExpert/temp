@@ -1,1 +1,1 @@
-[![neko](./assets/gif2.gif)](https://devsuryansh.in)
+[![neko](./sample2.gif)](https://devsuryansh.in)
